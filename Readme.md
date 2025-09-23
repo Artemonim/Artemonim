@@ -1,6 +1,6 @@
 ### Привет, я Artemonim! 👋
 
-Я стремился пойти в геймдев, но в итоге судьба привела меня в DevEx для разработки через ИИ-агентов, так как сам я проектирую и разрабатываю штуки именно через них.
+Я стремился пойти в геймдев, но в итоге судьба привела меня в DevEx для разработки через ИИ-агентов, так как сам я проектирую и разрабатываю штуки именно через них. Однако, занимаюсь я довольно широким спектром разных вещей. Особенно интересуюсь UX и автоматизацией.
 
 [English version below](#english-version-below)
 
@@ -60,7 +60,7 @@
 
 ### Hi, I'm Artemonim! 👋
 
-I was aiming for gamedev, but in the end fate led me to DevEx, working with AI agents, since that’s exactly how I design and build things myself.
+I was aiming for game dev, but in the end fate led me into DevEx with AI agents, since that’s actually how I design and build things myself. Still, I work on a pretty wide range of stuff. I’m especially into UX and automation.
 
 ---
 
