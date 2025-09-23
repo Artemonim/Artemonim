@@ -2,6 +2,13 @@
 
 Я стремился пойти в геймдев, но в итоге судьба привела меня в DevEx для разработки через ИИ-агентов, так как сам я проектирую и разрабатываю штуки именно через них. Однако, занимаюсь я довольно широким спектром разных вещей. Особенно интересуюсь UX и автоматизацией.
 
+![Stars](https://img.shields.io/github/stars/Artemonim?affiliations=OWNER&style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+
 [English version below](#english-version-below)
 
 ### 🚀 Ключевые проекты (Open Source)
@@ -61,6 +68,12 @@
 ### Hi, I'm Artemonim! 👋
 
 I was aiming for game dev, but in the end fate led me into DevEx with AI agents, since that’s actually how I design and build things myself. Still, I work on a pretty wide range of stuff. I’m especially into UX and automation.
+
+![Stars](https://img.shields.io/github/stars/Artemonim?affiliations=OWNER&style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
