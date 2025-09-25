@@ -43,8 +43,8 @@
 
 Это демонстрационные репозитории для проектов с закрытым исходным кодом. Вместо кода они содержат подробное описание задач, моего вклада и использованных технологий.
 
-*   <a href="https://github.com/Artemonim/portfolio-mock-Timeformer">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Artemonim&repo=portfolio-mock-Timeformer&theme=transparent&hide_border=true&title_color=2f80ed&text_color=ffffff&icon_color=2f80ed" />
+*   <a href="https://github.com/Artemonim/portfolio-mock-RFIDapp">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Artemonim&repo=portfolio-mock-RFIDapp&theme=transparent&hide_border=true&title_color=2f80ed&text_color=ffffff&icon_color=2f80ed" />
     </a>
     <br>
     <em>
@@ -103,8 +103,8 @@ Here are my main public projects in the field of AI and software development.
 These are mock repositories for my closed-source projects. Instead of code, they contain detailed READMEs describing the project goals, my contributions, and the tech stack used.
 
 <p align="left">
-  <a href="https://github.com/Artemonim/portfolio-mock-Timeformer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Artemonim&repo=portfolio-mock-Timeformer&theme=transparent&hide_border=true&title_color=2f80ed&text_color=ffffff&icon_color=2f80ed" />
+  <a href="https://github.com/Artemonim/portfolio-mock-RFIDapp">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Artemonim&repo=portfolio-mock-RFIDapp&theme=transparent&hide_border=true&title_color=2f80ed&text_color=ffffff&icon_color=2f80ed" />
   </a>
   <!-- You can add new mock repositories here in the same way -->
 </p>
@@ -114,5 +114,6 @@ These are mock repositories for my closed-source projects. Instead of code, they
 ### 📫 How to reach me
 
 *   Telegram: [@Artemonim](https://t.me/Artemonim)
+
 
 </details>
